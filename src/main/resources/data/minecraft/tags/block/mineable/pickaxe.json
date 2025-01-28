@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "prvimod:alexandrite_block",
+    "prvimod:raw_alexandrite_block",
+    "prvimod:alexandrite_ore",
+    "prvimod:deepslate_alexandrite_ore"
+  ]
+}

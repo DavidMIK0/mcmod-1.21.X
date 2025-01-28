@@ -1,0 +1,13 @@
+{
+  "item.prvimod.alexandrite": "Alexandrite Gem",
+  "item.prvimod.raw_alexandrite": "Raw Alexandrite",
+
+  "block.prvimod.alexandrite_block": "Block of Alexandrite",
+  "block.prvimod.raw_alexandrite_block": "Block of Raw Alexandrite",
+  "block.prvimod.alexandrite_ore": "Alexandrite Ore",
+  "block.prvimod.deepslate_alexandrite_ore": "Deepslate Alexandrite Ore",
+
+
+  "creativetab.prvimod.alexandrite_items": "Alexandrite Items",
+  "creativetab.prvimod.alexandrite_blocks": "Alexandrite Blocks"
+}
