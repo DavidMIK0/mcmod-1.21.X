@@ -2,12 +2,28 @@
   "item.prvimod.alexandrite": "Alexandrite Gem",
   "item.prvimod.raw_alexandrite": "Raw Alexandrite",
 
+  "item.prvimod.chisel": "Chisel",
+
+  "item.prvimod.kohlrabi": "Kohlrabi",
+
+  "item.prvimod.aurora_ashes": "Aurora Ashes",
+
   "block.prvimod.alexandrite_block": "Block of Alexandrite",
   "block.prvimod.raw_alexandrite_block": "Block of Raw Alexandrite",
   "block.prvimod.alexandrite_ore": "Alexandrite Ore",
   "block.prvimod.deepslate_alexandrite_ore": "Deepslate Alexandrite Ore",
 
+  "block.prvimod.magic_block": "Magic Block",
+
 
   "creativetab.prvimod.alexandrite_items": "Alexandrite Items",
-  "creativetab.prvimod.alexandrite_blocks": "Alexandrite Blocks"
+  "creativetab.prvimod.alexandrite_blocks": "Alexandrite Blocks",
+  "creativetab.prvimod.alexandrite_tools": "Alexamdrite Tools",
+  "creativetab.prvimod.alexandrite_Fuels": "Alexamdrite Fuels",
+  "creativetab.prvimod.alexandrite_foods": "Alexamdrite Foods",
+
+  "tooltip.prvimod.magic_block.tooltip": "This Block is quite §9MAGICAL§r",
+  "tooltip.prvimod.chisel.shift_down": "This Item changes certain Blocks",
+  "tooltip.prvimod.chisel": "Press §eShift§r for more Information!",
+  "tooltip.prvimod.kohlrabi": "This tastes GREAT!"
 }
